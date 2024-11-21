@@ -1,0 +1,8 @@
+C:\Users\CC2-PC14\Documents\SharpDevelop Projects\TAPETES\TAPETES\obj\Debug\TAPETES.csprojResolveAssemblyReference.cache
+C:\Users\CC2-PC14\Documents\SharpDevelop Projects\TAPETES\TAPETES\obj\Debug\TAPETES.MainForm.resources
+C:\Users\CC2-PC14\Documents\SharpDevelop Projects\TAPETES\TAPETES\obj\Debug\TAPETES.portada.resources
+C:\Users\CC2-PC14\Documents\SharpDevelop Projects\TAPETES\TAPETES\obj\Debug\TAPETES.csproj.GenerateResource.Cache
+C:\Users\CC2-PC14\Documents\SharpDevelop Projects\TAPETES\TAPETES\bin\Debug\TAPETES.exe
+C:\Users\CC2-PC14\Documents\SharpDevelop Projects\TAPETES\TAPETES\bin\Debug\TAPETES.pdb
+C:\Users\CC2-PC14\Documents\SharpDevelop Projects\TAPETES\TAPETES\obj\Debug\TAPETES.exe
+C:\Users\CC2-PC14\Documents\SharpDevelop Projects\TAPETES\TAPETES\obj\Debug\TAPETES.pdb
